@@ -112,7 +112,7 @@ function! plugins#loadPlugins() abort
   call minpac#add('https://github.com/sheerun/vim-polyglot')
   let g:polyglot_disabled = ['javascript', 'jsx']
 
-  call minpac#add('https://github.com/chemzqm/vim-jsx-improve')
+  call minpac#add('https://github.com/neoclide/vim-jsx-improve')
   call minpac#add('https://github.com/direnv/direnv.vim')
   call minpac#add('https://github.com/luochen1990/rainbow')
   let g:rainbow_active = 1
