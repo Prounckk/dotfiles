@@ -134,7 +134,6 @@ SYMBOLS=(
 "∴"
 "→"
 "»"
-"৸"
 )
 
 # Arrays in zsh starts from 1
